@@ -1,0 +1,40 @@
+{
+    "NewsContent": [
+      {
+        "id": 1,
+        "name": "The best holiday dessert for non-bakers is simple ",
+        "web": "https://edition.cnn.com/2022/12/22/health/holiday-desserts-ice-cream-wellness",
+        "image": "https://www.royalcaribbean.com/blog/wp-content/uploads/2020/12/iStock-1185515984.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Meet a rainbow fish and other new species discovered in 2022",
+        "web": "https://edition.cnn.com/2022/12/29/world/new-species-discoveries-2022-scn/index.html",
+        "image": "https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F220309153016-02-rose-veiled-fairy-wrasse-discovery.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Fed watch 2023: When will rate hikes slow down",
+        "web": "https://edition.cnn.com/2022/12/30/economy/federal-reserve-2023-outlook",
+        "image":"https://media.cnn.com/api/v1/images/stellar/prod/221229122901-01-federal-reserve-2023-outlook.jpg?c=original"
+      },
+      {
+        "id": 4,
+        "name": "The new buildings set to shape the world in 2023",
+        "web": "https://edition.cnn.com/style/article/new-buildings-architecture-2023/index.html",
+        "image":"https://kesq.b-cdn.net/2022/12/hypatia-h_383d86733727b267bd1420d0df448372-h_5e93e6fcf754deb8ba379b1c73ca1518-300-1440x810.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Dania Akeel Saudi woman taking on one of the world’s toughest motor races",
+        "web": "https://edition.cnn.com/2022/12/30/motorsport/dania-akeel-dakar-rally-spt-intl/index.html",
+        "image":"https://puromotor.com/wp-content/uploads/2021/12/1-Dania-1.jpeg"
+      },
+      {
+        "id": 6,
+        "name": "A robot is killing weeds by zapping them with electricity",
+        "web": "https://edition.cnn.com/2021/06/09/tech/robot-zaps-weeds-spc-intl/index.html",
+        "image":"https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F210531145147-01-small-robot-company-per-plant-farming-restricted.jpg"
+      }
+    ]
+  }
